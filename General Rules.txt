@@ -1,0 +1,42 @@
+--- Colores ---
+Brand / Primary	
+#4CAF4F	Botones principales, links, textos/titulos
+
+Brand / Secondary	
+#263238	Fondo footer
+
+Neutral / D_Grey	
+#4D4D4D	Títulos
+
+Neutral / Grey	
+#717171	Texto / descripciones
+
+Text / Gray 900	
+#18191F	Texto de navegación / nav
+
+Neutral / Silver	
+#F5F7FA    Texto sobre footer oscuro
+
+Neutral / White	
+#FFFFFF	Texto sobre botones/fondo oscuro
+
+
+--- Botones/links ---
+-nav links = 16px
+-btn-primary = 16px
+-btn-login = 14px
+-btn-signup = 14px
+-link footer = 14px
+
+
+--- Tipografía (Inter) ---
+-Headline H1 = 64px	
+-Headline H2 = 36px
+-Headline H3 = 28px
+-Headline H4	= 20px
+-Headline H5 = 64px
+
+
+-- Parrafos ---
+-Body 2 P = 16px  Párrafos / descripciones
+-Body 3 P = 14px  Texto pequeño (copyright, footer links)
