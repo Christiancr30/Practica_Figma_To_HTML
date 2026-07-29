@@ -33,7 +33,7 @@ Neutral / White
 -Headline H1 = 64px	
 -Headline H2 = 36px
 -Headline H3 = 28px
--Headline H4	= 20px
+-Headline H4 = 20px
 -Headline H5 = 64px
 
 
