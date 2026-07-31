@@ -1,0 +1,19 @@
+// AJUSTES NECESARIOS PARA LOS BOTONES Y LINKS
+body{
+    font-family: $font;
+}
+
+button{
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
