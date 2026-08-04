@@ -1,0 +1,31 @@
+.pixelgrade {
+    display: flex;
+    width: 1440px;
+    padding: 0 144px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pixelgrade-image img {
+    width: 442px;
+}
+
+.pixelgrade-content {
+    display: flex;
+    width: 661px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 600;
+    color: $color-dgrey;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    color: $color-grey;
+}
+
