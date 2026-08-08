@@ -769,4 +769,17 @@ h4 {
   color: #4CAF4F;
 }
 
+.cta {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #F5F7FA;
+  text-align: center;
+}
+
+h5 {
+  font-size: 64px;
+  max-width: 640px;
+  margin: 0 auto 32px;
+}
+
 /*# sourceMappingURL=styles.css.map */
