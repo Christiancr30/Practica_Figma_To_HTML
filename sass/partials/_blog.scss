@@ -1,0 +1,64 @@
+//9. BLOG SECTION
+
+.blog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    padding: 64px 144px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 600;
+    color: $color-dgrey;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    color: $color-grey;
+    max-width: 628px;
+}
+
+.blog-cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    margin-top: 32px;
+}
+
+.blog-card {
+    width: 368px;
+    text-align: center;
+}
+
+.blog-card-image {
+    width: 100%;
+    height: 130px;
+}
+
+.blog-card-content {
+    margin: 50px 20px;
+    background-color: $color-silver;
+    border-radius: $radius-lg;
+    padding: 20px 20px;
+    box-shadow: 0 8px 16px 0 rgba(171, 190, 209, 0.40);
+    position: relative; 
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 600;
+    color: $color-grey;
+    margin-bottom: 20px;
+}
+
+.link-readmore {
+    font-size: 22px;
+    font-weight: 600;
+    color: $color-primary;
+}
+
+
