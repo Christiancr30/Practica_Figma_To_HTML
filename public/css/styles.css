@@ -796,7 +796,7 @@ footer {
   gap: 40px;
 }
 
-p {
+.footer-brand p {
   font-size: 14px;
   font-weight: 300;
   color: #F5F7FA;
